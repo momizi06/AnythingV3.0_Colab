@@ -1,3 +1,11 @@
+# SD_illustrationModel+WebUI
+
+StableDiffusion派生のモデルのうち、イラスト生成に特化したモデルをGoogle Colaboratory上で使うことができるノートブックです。
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/momizi06/AnythingV3.0_Colab/blob/main/SD_illustrationModel%2BWebUI_V1_0.ipynb)
+
+
+
 # AnythingV3.0+Colab
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/momizi06/AnythingV3.0_Colab/blob/main/AnythingV3_0%2BAUTOMATIC1111.ipynb)
 
